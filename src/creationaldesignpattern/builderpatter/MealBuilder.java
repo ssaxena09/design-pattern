@@ -30,8 +30,8 @@ public class MealBuilder {
 		System.out.println("===================================");
 		System.out.println("type number to select the meal type");
 		System.out.println("===================================");
-		System.out.println("1. VegMeal");
-		System.out.println("2. NonVegMeal");
+		System.out.println("1. NonVegMeal");
+		System.out.println("2. VegMeal");
 
 		int selectedOption = Integer.parseInt(br.readLine());
 
