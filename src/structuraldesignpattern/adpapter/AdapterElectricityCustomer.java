@@ -4,7 +4,7 @@ public class AdapterElectricityCustomer extends SubDistributionCentre implements
 
 	@Override
 	public void storeDiscomDetails() {
-		setAddress("Vinay Nagar near Bhodapur");
+		setAddress("Vinay Na gar near Bhodapur");
 		setName("Vinay Nagar Discom");
 		setPhoneNumber("+91 9575643564");
 		setPincode(474008);
